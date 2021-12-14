@@ -1,5 +1,5 @@
 # jira-crack
-# works and tested on Version 8.19.1 and V8.21 with ubuntu 20
+# works and tested on Version 8.19.1 and V8.21 on ubuntu 20 and docker image
 ### easily crack jira server.
 this was tested on a ubuntu server on 13 Dec 2021.works fine . use it and enjoy (:
 
