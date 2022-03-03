@@ -59,3 +59,5 @@ AAAB6w0ODAoPeJyFU9Fu2jAUfc9XRNrLpikoTqG0lSwthHRjTYAldNL2ZtILuAtOdm1D+fuFQNS0dbNH
   ```
   voala! jira's been activated for 5 months. after that you can just repeat these steps for another 5 months
   i've tried contacting them to fix this but hasn't got a response yet...(:
+  if your still not able to crack jira with this code. it may have been banned by jira's Team. instead you can use this repo [atlassian-agent](https://gitee.com/pengzhile/atlassian-agent)  (all credits to him) and use atlassian-agent to generate a new license.
+thanks to Mr. Saeid Hosseini  for finding this repo.
